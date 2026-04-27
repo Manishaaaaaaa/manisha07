@@ -86,3 +86,6 @@ Under limited training (1 epoch, 10k samples), the classical baseline slightly o
 However, DistilBERT shows stronger contextual understanding and would likely surpass the baseline with more epochs or more data.
 
 ---
+# 🚀 How to Run This Notebook
+
+### **1. Install dependencies**
