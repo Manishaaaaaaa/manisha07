@@ -89,3 +89,34 @@ However, DistilBERT shows stronger contextual understanding and would likely sur
 # 🚀 How to Run This Notebook
 
 ### **1. Install dependencies**
+### **2. Download the IMDB dataset**
+Place `IMDB Dataset.csv` in the same folder as the notebook.
+
+### **3. Run the notebook**
+
+Run all cells **top to bottom**.  
+The notebook will:
+
+- Load the dataset  
+- Train the baseline model  
+- Train DistilBERT  
+- Evaluate both models  
+- Display metrics, confusion matrices, and comparison tables  
+
+### **4. Notebook Output**
+This notebook has been **fully executed** before upload.  
+All output cells are visible directly on GitHub as required.
+---
+# ✔ Requirements
+See `requirements.txt` for all dependencies.
+---
+# 📄 Report
+The full ACM‑formatted report is included as:
+---
+# 🎯 Status
+This repository contains:
+
+- ✔ Fully executed Jupyter notebook  
+- ✔ Markdown instructions  
+- ✔ requirements.txt  
+- ✔ ACM‑formatted report    
